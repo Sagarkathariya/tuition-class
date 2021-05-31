@@ -1,0 +1,5 @@
+Types of Function 
+1) function without arguments and without returning value  
+2) function without arguments but returning value 
+3) function with passing arguments but without returning values
+4) function with passing arguments and with returning values
