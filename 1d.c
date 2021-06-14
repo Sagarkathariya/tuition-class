@@ -2,7 +2,7 @@
 int main()
 {
 
-    int i , num[5];
+    int i , num[100];
     printf("Input the five numbers:");
     for(i=0; i<5; i++){
         scanf("%d",&num[i]);
